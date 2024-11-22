@@ -69,6 +69,8 @@ The main Flask application includes routes for:
 - **HTML/CSS**: Frontend templates and styling.
 - **SQLite**: Lightweight database for user data storage.
 
+---
+
 ## The tech stack for this **Flask Project Demo** includes the following technologies:
 
 ### **Frontend**:

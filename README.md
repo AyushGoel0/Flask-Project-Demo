@@ -69,5 +69,3 @@ The main Flask application includes routes for:
 - **HTML/CSS**: Frontend templates and styling.
 - **SQLite**: Lightweight database for user data storage.
 ```
-
-This Markdown format is ready to be added to your `README.md` file!

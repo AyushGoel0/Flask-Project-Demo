@@ -68,7 +68,6 @@ The main Flask application includes routes for:
 - **SQLAlchemy**: ORM for database management.
 - **HTML/CSS**: Frontend templates and styling.
 - **SQLite**: Lightweight database for user data storage.
-```
 
 ##The tech stack for this **Flask Project Demo** includes the following technologies:
 

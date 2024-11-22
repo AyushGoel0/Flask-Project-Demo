@@ -70,29 +70,29 @@ The main Flask application includes routes for:
 - **SQLite**: Lightweight database for user data storage.
 ```
 
-The tech stack for this **Flask Project Demo** includes the following technologies:
+##The tech stack for this **Flask Project Demo** includes the following technologies:
 
-## **Frontend**:
+### **Frontend**:
 1. **HTML** - For structuring the web pages.
 2. **CSS** - For styling and layout (basic styles provided in `style.css`).
 
-## **Backend**:
+### **Backend**:
 1. **Flask** - Lightweight Python web framework for building web applications.
 2. **SQLAlchemy** - Object-Relational Mapping (ORM) tool for database interactions.
 
-## **Database**:
+### **Database**:
 1. **SQLite** - Lightweight and embedded database for managing user authentication data.
 
-## **Server**:
+### **Server**:
 1. **Flask Development Server** - Built-in development server for running and testing the application.
 
-## **Other Tools**:
+### **Other Tools**:
 1. **Python** - The programming language used for backend development.
 2. **Virtual Environment** (`venv`) - For managing Python dependencies locally without affecting the global environment.
 
 ---
 
-## **Summary of Tech Stack**:
+### **Summary of Tech Stack**:
 - **Frontend**: HTML, CSS  
 - **Backend**: Flask, Python  
 - **Database**: SQLite  
